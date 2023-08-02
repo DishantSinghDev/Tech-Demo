@@ -11,6 +11,7 @@ import {
   healthcare, hotel, logistic,
   social, travel
 } from "../../assets";
+import { Link } from "react-router-dom";
 
 const CompanyDropdownEl = styled.div`
   width: 18.5rem;
@@ -157,7 +158,7 @@ const CompanyDropdown = () => {
             </a>
           </li>
           <li>
-            <a className="flex flex-1 items-center" href='/'>
+            <Link className="flex flex-1 items-center" to='/logistic-software-development'>
               <Logo color="white">
                 <img
                     src={logistic}
@@ -168,7 +169,7 @@ const CompanyDropdown = () => {
               <div>
                 <Heading color="theme">Logistic & Shipping</Heading>
               </div>
-            </a>
+            </Link>
           </li>
           <li>
             <a className="flex flex-1 items-center" href='/'>

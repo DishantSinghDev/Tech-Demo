@@ -12,6 +12,7 @@ import {
   healthcare, hotel, ios, logistic, nodejs, reactjs,
   social, travel
 } from "../../assets";
+import { Link } from "react-router-dom";
 
 const CompanyDropdownEl = styled.div`
   width: 20rem;
@@ -74,7 +75,7 @@ const HireDedicatedDropdown = () => {
       <DropdownSection data-first-dropdown-section>
         <ProductsSection>
           <li>
-            <a className="flex flex-1 items-center" href='/'>
+            <Link className="flex flex-1 items-center" to='/ios-process-ex'>
               <Logo color="white">
                 <img
                     src={ios}
@@ -85,10 +86,10 @@ const HireDedicatedDropdown = () => {
               <div>
                 <Heading color="theme"> Hire iOS Developer </Heading>
               </div>
-            </a>
+            </Link>
           </li>
           <li>
-            <a className="flex flex-1 items-center" href='/'>
+            <Link className="flex flex-1 items-center" to='/hire-dev'>
               <Logo color="white">
                 <img
                     src={android}
@@ -99,10 +100,10 @@ const HireDedicatedDropdown = () => {
               <div>
                 <Heading color="theme"> Hire Android Developer </Heading>
               </div>
-            </a>
+            </Link>
           </li>
           <li>
-            <a className="flex flex-1 items-center" href='/'>
+            <Link className="flex flex-1 items-center" to='/flutter-ex'>
               <Logo color="white">
                 <img
                     src={flutter}
@@ -113,10 +114,10 @@ const HireDedicatedDropdown = () => {
               <div>
                 <Heading color="theme"> Hire Flutter Developer </Heading>
               </div>
-            </a>
+            </Link>
           </li>
           <li>
-            <a className="flex flex-1 items-center" href='/'>
+            <Link className="flex flex-1 items-center" to='/hire-dev'>
               <Logo color="white">
                 <img
                     src={fsapp}
@@ -127,10 +128,10 @@ const HireDedicatedDropdown = () => {
               <div>
                 <Heading color="theme"> Hire Full Stack Developer </Heading>
               </div>
-            </a>
+            </Link>
           </li>
           <li>
-            <a className="flex flex-1 items-center" href='/'>
+            <Link className="flex flex-1 items-center" to='/hire-dev'>
               <Logo color="white">
                 <img
                     src={angularjs}
@@ -141,10 +142,10 @@ const HireDedicatedDropdown = () => {
               <div>
                 <Heading color="theme"> Hire Angular Developer </Heading>
               </div>
-            </a>
+            </Link>
           </li>
           <li>
-            <a className="flex flex-1 items-center" href='/'>
+            <Link className="flex flex-1 items-center" to='/hire-dev'>
               <Logo color="white">
                 <img
                     src={reactjs}
@@ -155,10 +156,10 @@ const HireDedicatedDropdown = () => {
               <div>
                 <Heading color="theme"> Hire ReactJS Developer </Heading>
               </div>
-            </a>
+            </Link>
           </li>
           <li>
-            <a className="flex flex-1 items-center" href='/'>
+            <Link className="flex flex-1 items-center" to='/hire-dev'>
               <Logo color="white">
                 <img
                     src={nodejs}
@@ -169,12 +170,12 @@ const HireDedicatedDropdown = () => {
               <div>
                 <Heading color="theme"> Hire NodeJS Developer </Heading>
               </div>
-            </a>
+            </Link>
           </li>
         </ProductsSection>
       </DropdownSection>
       {/*<DropdownSection>*/}
-      {/*  <a className="flex flex-1 items-center mb-10" href='/'>*/}
+      {/*  <Link className="flex flex-1 items-center mb-10" to='/hire-dev'>*/}
       {/*    <Logo color="transperant">*/}
       {/*      <img*/}
       {/*          src={blog}*/}
@@ -185,18 +186,18 @@ const HireDedicatedDropdown = () => {
       {/*    <div>*/}
       {/*      <Heading color="theme">Latest News</Heading>*/}
       {/*    </div>*/}
-      {/*  </a>*/}
+      {/*  </Link>*/}
       {/*  <SubProductsList>*/}
       {/*    <li>*/}
       {/*      <div>*/}
-      {/*        <a href='/'> &rsaquo; The best way to start an internet business.</a>*/}
+      {/*        <Link to='/hire-dev'> &rsaquo; The best way to start an internet business.</Link>*/}
       {/*      </div>*/}
       {/*    </li>*/}
       {/*    <li>*/}
-      {/*      <div><a href='/'> &rsaquo; The best way to start an internet business.</a></div>*/}
+      {/*      <div><Link to='/hire-dev'> &rsaquo; The best way to start an internet business.</Link></div>*/}
       {/*    </li>*/}
       {/*    <li>*/}
-      {/*      <div><a href='/'> &rsaquo; The best way to start an internet business.</a></div>*/}
+      {/*      <div><Link to='/hire-dev'> &rsaquo; The best way to start an internet business.</Link></div>*/}
       {/*    </li>*/}
       {/*  </SubProductsList>*/}
       {/*</DropdownSection>*/}

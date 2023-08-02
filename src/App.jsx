@@ -5,7 +5,7 @@ import RequestQuote from "./request-quote";
 import Blog from "./blog";
 import ExPage from "./ex-page";
 import Work from "./work";
-import CaseStudies from "./case-studies/bridging_the_gap_in_online_education_integration_of_ai_and_gaming";
+import CaseStudies from "./case-studies/example-1";
 import LogisticSoftDev from "./logistic-soft-dev";
 import FlutterEx from "./flutter-ex";
 import HireDev from "./hire-dev";
@@ -29,7 +29,7 @@ const App = () => {
         <Route path="/process" element={<ProcessPage/>}></Route>
         <Route path="/ios-process-ex" element={<IosProcessEx/>}></Route>
         <Route path="/logistic-software-development" element={<LogisticSoftDev/>}></Route>
-        <Route path="/case-studies/bridging_the_gap_in_online_education_integration_of_ai_and_gaming" element={<CaseStudies/>}></Route>
+        <Route path="/case-studies/example-1" element={<CaseStudies/>}></Route>
       </Routes>
     </BrowserRouter>
    </>
