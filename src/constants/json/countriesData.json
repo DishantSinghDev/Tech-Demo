@@ -1,0 +1,964 @@
+{
+    "ad": {
+        "name": "Andorra",
+        "callingCode": "+376"
+    },
+    "ae": {
+        "name": "United Arab Emirates",
+        "callingCode": "+971"
+    },
+    "af": {
+        "name": "Afghanistan",
+        "callingCode": "+93"
+    },
+    "ag": {
+        "name": "Antigua and Barbuda",
+        "callingCode": "+1"
+    },
+    "ai": {
+        "name": "Anguilla",
+        "callingCode": "+1"
+    },
+    "al": {
+        "name": "Albania",
+        "callingCode": "+355"
+    },
+    "am": {
+        "name": "Armenia",
+        "callingCode": "+374"
+    },
+    "ao": {
+        "name": "Angola",
+        "callingCode": "+244"
+    },
+    "aq": {
+        "name": "Antarctica",
+        "callingCode": "+672"
+    },
+    "ar": {
+        "name": "Argentina",
+        "callingCode": "+54"
+    },
+    "as": {
+        "name": "American Samoa",
+        "callingCode": "+1"
+    },
+    "at": {
+        "name": "Austria",
+        "callingCode": "+43"
+    },
+    "au": {
+        "name": "Australia",
+        "callingCode": "+61"
+    },
+    "aw": {
+        "name": "Aruba",
+        "callingCode": "+297"
+    },
+    "ax": {
+        "name": "\u00c5land Islands",
+        "callingCode": "+358"
+    },
+    "az": {
+        "name": "Azerbaijan",
+        "callingCode": "+994"
+    },
+    "ba": {
+        "name": "Bosnia and Herzegovina",
+        "callingCode": "+387"
+    },
+    "bb": {
+        "name": "Barbados",
+        "callingCode": "+1"
+    },
+    "bd": {
+        "name": "Bangladesh",
+        "callingCode": "+880"
+    },
+    "be": {
+        "name": "Belgium",
+        "callingCode": "+32"
+    },
+    "bf": {
+        "name": "Burkina Faso",
+        "callingCode": "+226"
+    },
+    "bg": {
+        "name": "Bulgaria",
+        "callingCode": "+359"
+    },
+    "bh": {
+        "name": "Bahrain",
+        "callingCode": "+973"
+    },
+    "bi": {
+        "name": "Burundi",
+        "callingCode": "+257"
+    },
+    "bj": {
+        "name": "Benin",
+        "callingCode": "+229"
+    },
+    
+    "bm": {
+        "name": "Bermuda",
+        "callingCode": "+1"
+    },
+    "bn": {
+        "name": "Brunei",
+        "callingCode": "+673"
+    },
+    "bo": {
+        "name": "Bolivia",
+        "callingCode": "+591"
+    },
+    
+    "br": {
+        "name": "Brazil",
+        "callingCode": "+55"
+    },
+    "bs": {
+        "name": "Bahamas",
+        "callingCode": "+1"
+    },
+    "bt": {
+        "name": "Bhutan",
+        "callingCode": "+975"
+    },
+    "bw": {
+        "name": "Botswana",
+        "callingCode": "+267"
+    },
+    "by": {
+        "name": "Belarus",
+        "callingCode": "+375"
+    },
+    "bz": {
+        "name": "Belize",
+        "callingCode": "+501"
+    },
+    "ca": {
+        "name": "Canada",
+        "callingCode": "+1"
+    },
+    "cc": {
+        "name": "Cocos (Keeling) Islands",
+        "callingCode": "+61"
+    },
+    "cd": {
+        "name": "Congo (Kinshasa)",
+        "callingCode": "+243"
+    },
+    "cf": {
+        "name": "Central African Republic",
+        "callingCode": "+236"
+    },
+    "cg": {
+        "name": "Congo (Brazzaville)",
+        "callingCode": "+242"
+    },
+    "ch": {
+        "name": "Switzerland",
+        "callingCode": "+41"
+    },
+    "ci": {
+        "name": "Côte d'Ivoire",
+        "callingCode": "+225"
+    },
+    "ck": {
+        "name": "Cook Islands",
+        "callingCode": "+682"
+    },
+    "cl": {
+        "name": "Chile",
+        "callingCode": "+56"
+    },
+    "cm": {
+        "name": "Cameroon",
+        "callingCode": "+237"
+    },
+    "cn": {
+        "name": "China",
+        "callingCode": "+86"
+    },
+    "co": {
+        "name": "Colombia",
+        "callingCode": "+57"
+    },
+    "cr": {
+        "name": "Costa Rica",
+        "callingCode": "+506"
+    },
+    "cu": {
+        "name": "Cuba",
+        "callingCode": "+53"
+    },
+    "cv": {
+        "name": "Cape Verde",
+        "callingCode": "+238"
+    },
+    "cw": {
+        "name": "Curaçao",
+        "callingCode": "+599"
+    },
+    "cx": {
+        "name": "Christmas Island",
+        "callingCode": "+61"
+    },
+    "cy": {
+        "name": "Cyprus",
+        "callingCode": "+357"
+    },
+    "cz": {
+        "name": "Czech Republic",
+        "callingCode": "+420"
+    },
+    "de": {
+        "name": "Germany",
+        "callingCode": "+49"
+    },
+    "dj": {
+        "name": "Djibouti",
+        "callingCode": "+253"
+    },
+    "dk": {
+        "name": "Denmark",
+        "callingCode": "+45"
+    },
+    "dm": {
+        "name": "Dominica",
+        "callingCode": "+1"
+    },
+    "do": {
+        "name": "Dominican Republic",
+        "callingCode": "+1"
+    },
+    "dz": {
+        "name": "Algeria",
+        "callingCode": "+213"
+    },
+    "ec": {
+        "name": "Ecuador",
+        "callingCode": "+593"
+    },
+    "ee": {
+        "name": "Estonia",
+        "callingCode": "+372"
+    },
+    "eg": {
+        "name": "Egypt",
+        "callingCode": "+20"
+    },
+    "eh": {
+        "name": "Western Sahara",
+        "callingCode": "+212"
+    },
+    "er": {
+        "name": "Eritrea",
+        "callingCode": "+291"
+    },
+    "es": {
+        "name": "Spain",
+        "callingCode": "+34"
+    },
+    "et": {
+        "name": "Ethiopia",
+        "callingCode": "+251"
+    },
+    "fi": {
+        "name": "Finland",
+        "callingCode": "+358"
+    },
+    "fj": {
+        "name": "Fiji",
+        "callingCode": "+679"
+    },
+    "fk": {
+        "name": "Falkland Islands",
+        "callingCode": "+500"
+    },
+    "fm": {
+        "name": "Micronesia",
+        "callingCode": "+691"
+    },
+    "fo": {
+        "name": "Faroe Islands",
+        "callingCode": "+298"
+    },
+    "fr": {
+        "name": "France",
+        "callingCode": "+33"
+    },
+    "ga": {
+        "name": "Gabon",
+        "callingCode": "+241"
+    },
+    "gb": {
+        "name": "United Kingdom",
+        "callingCode": "+44"
+    },
+    "gd": {
+        "name": "Grenada",
+        "callingCode": "+1"
+    },
+    "ge": {
+        "name": "Georgia",
+        "callingCode": "+995"
+    },
+    
+    "gg": {
+        "name": "Guernsey",
+        "callingCode": "+44"
+    },
+    "gh": {
+        "name": "Ghana",
+        "callingCode": "+233"
+    },
+    "gi": {
+        "name": "Gibraltar",
+        "callingCode": "+350"
+    },
+    "gl": {
+        "name": "Greenland",
+        "callingCode": "+299"
+    },
+    "gm": {
+        "name": "Gambia",
+        "callingCode": "+220"
+    },
+    "gn": {
+        "name": "Guinea",
+        "callingCode": "+224"
+    },
+    
+    "gq": {
+        "name": "Equatorial Guinea",
+        "callingCode": "+240"
+    },
+    "gr": {
+        "name": "Greece",
+        "callingCode": "+30"
+    },
+    "gs": {
+        "name": "South Georgia and the South Sandwich Islands",
+        "callingCode": ""
+    },
+    "gt": {
+        "name": "Guatemala",
+        "callingCode": "+502"
+    },
+    "gu": {
+        "name": "Guam",
+        "callingCode": "+1"
+    },
+    "gw": {
+        "name": "Guinea-Bissau",
+        "callingCode": "+245"
+    },
+    "gy": {
+        "name": "Guyana",
+        "callingCode": "+592"
+    },
+    "hk": {
+        "name": "Hong Kong",
+        "callingCode": "+852"
+    },
+    
+    "hn": {
+        "name": "Honduras",
+        "callingCode": "+504"
+    },
+    "hr": {
+        "name": "Croatia",
+        "callingCode": "+385"
+    },
+    "ht": {
+        "name": "Haiti",
+        "callingCode": "+509"
+    },
+    "hu": {
+        "name": "Hungary",
+        "callingCode": "+36"
+    },
+    "id": {
+        "name": "Indonesia",
+        "callingCode": "+62"
+    },
+    "ie": {
+        "name": "Ireland",
+        "callingCode": "+353"
+    },
+    "il": {
+        "name": "Israel",
+        "callingCode": "+972"
+    },
+    "im": {
+        "name": "Isle of Man",
+        "callingCode": "+44"
+    },
+    "in": {
+        "name": "India",
+        "callingCode": "+91"
+    },
+    
+    "iq": {
+        "name": "Iraq",
+        "callingCode": "+964"
+    },
+    "ir": {
+        "name": "Iran",
+        "callingCode": "+98"
+    },
+    "is": {
+        "name": "Iceland",
+        "callingCode": "+354"
+    },
+    "it": {
+        "name": "Italy",
+        "callingCode": "+39"
+    },
+    "je": {
+        "name": "Jersey",
+        "callingCode": "+44"
+    },
+    "jm": {
+        "name": "Jamaica",
+        "callingCode": "+1"
+    },
+    "jo": {
+        "name": "Jordan",
+        "callingCode": "+962"
+    },
+    "jp": {
+        "name": "Japan",
+        "callingCode": "+81"
+    },
+    "ke": {
+        "name": "Kenya",
+        "callingCode": "+254"
+    },
+    "kg": {
+        "name": "Kyrgyzstan",
+        "callingCode": "+996"
+    },
+    "kh": {
+        "name": "Cambodia",
+        "callingCode": "+855"
+    },
+    "ki": {
+        "name": "Kiribati",
+        "callingCode": "+686"
+    },
+    "km": {
+        "name": "Comoros",
+        "callingCode": "+269"
+    },
+    "kn": {
+        "name": "Saint Kitts and Nevis",
+        "callingCode": "+1"
+    },
+    "kp": {
+        "name": "North Korea",
+        "callingCode": "+850"
+    },
+    "kr": {
+        "name": "South Korea",
+        "callingCode": "+82"
+    },
+    "kw": {
+        "name": "Kuwait",
+        "callingCode": "+965"
+    },
+    "ky": {
+        "name": "Cayman Islands",
+        "callingCode": "+1"
+    },
+    "kz": {
+        "name": "Kazakhstan",
+        "callingCode": "+7"
+    },
+    "la": {
+        "name": "Laos",
+        "callingCode": "+856"
+    },
+    "lb": {
+        "name": "Lebanon",
+        "callingCode": "+961"
+    },
+    "lc": {
+        "name": "Saint Lucia",
+        "callingCode": "+1"
+    },
+    "li": {
+        "name": "Liechtenstein",
+        "callingCode": "+423"
+    },
+    "lk": {
+        "name": "Sri Lanka",
+        "callingCode": "+94"
+    },
+    "lr": {
+        "name": "Liberia",
+        "callingCode": "+231"
+    },
+    "ls": {
+        "name": "Lesotho",
+        "callingCode": "+266"
+    },
+    "lt": {
+        "name": "Lithuania",
+        "callingCode": "+370"
+    },
+    "lu": {
+        "name": "Luxembourg",
+        "callingCode": "+352"
+    },
+    "lv": {
+        "name": "Latvia",
+        "callingCode": "+371"
+    },
+    "ly": {
+        "name": "Libya",
+        "callingCode": "+218"
+    },
+    "ma": {
+        "name": "Morocco",
+        "callingCode": "+212"
+    },
+    "mc": {
+        "name": "Monaco",
+        "callingCode": "+377"
+    },
+    "md": {
+        "name": "Moldova",
+        "callingCode": "+373"
+    },
+    "me": {
+        "name": "Montenegro",
+        "callingCode": "+382"
+    },
+    "mf": {
+        "name": "Saint Martin (French part)",
+        "callingCode": "+590"
+    },
+    "mg": {
+        "name": "Madagascar",
+        "callingCode": "+261"
+    },
+    "mh": {
+        "name": "Marshall Islands",
+        "callingCode": "+692"
+    },
+    "mk": {
+        "name": "North Macedonia",
+        "callingCode": "+389"
+    },
+    "ml": {
+        "name": "Mali",
+        "callingCode": "+223"
+    },
+    "mm": {
+        "name": "Myanmar",
+        "callingCode": "+95"
+    },
+    "mn": {
+        "name": "Mongolia",
+        "callingCode": "+976"
+    },
+    "mo": {
+        "name": "Macao",
+        "callingCode": "+853"
+    },
+    "mp": {
+        "name": "Northern Mariana Islands",
+        "callingCode": "+1"
+    },
+    "mq": {
+        "name": "Martinique",
+        "callingCode": "+596"
+    },
+    "mr": {
+        "name": "Mauritania",
+        "callingCode": "+222"
+    },
+    "ms": {
+        "name": "Montserrat",
+        "callingCode": "+1"
+    },
+    "mt": {
+        "name": "Malta",
+        "callingCode": "+356"
+    },
+    "mu": {
+        "name": "Mauritius",
+        "callingCode": "+230"
+    },
+    "mv": {
+        "name": "Maldives",
+        "callingCode": "+960"
+    },
+    "mw": {
+        "name": "Malawi",
+        "callingCode": "+265"
+    },
+    "mx": {
+        "name": "Mexico",
+        "callingCode": "+52"
+    },
+    "my": {
+        "name": "Malaysia",
+        "callingCode": "+60"
+    },
+    "mz": {
+        "name": "Mozambique",
+        "callingCode": "+258"
+    },
+    "na": {
+        "name": "Namibia",
+        "callingCode": "+264"
+    },
+    "nc": {
+        "name": "New Caledonia",
+        "callingCode": "+687"
+    },
+    "ne": {
+        "name": "Niger",
+        "callingCode": "+227"
+    },
+    "nf": {
+        "name": "Norfolk Island",
+        "callingCode": "+672"
+    },
+    "ng": {
+        "name": "Nigeria",
+        "callingCode": "+234"
+    },
+    "ni": {
+        "name": "Nicaragua",
+        "callingCode": "+505"
+    },
+    "nl": {
+        "name": "Netherlands",
+        "callingCode": "+31"
+    },
+    "no": {
+        "name": "Norway",
+        "callingCode": "+47"
+    },
+    "np": {
+        "name": "Nepal",
+        "callingCode": "+977"
+    },
+    "nr": {
+        "name": "Nauru",
+        "callingCode": "+674"
+    },
+    "nu": {
+        "name": "Niue",
+        "callingCode": "+683"
+    },
+    "nz": {
+        "name": "New Zealand",
+        "callingCode": "+64"
+    },
+    "om": {
+        "name": "Oman",
+        "callingCode": "+968"
+    },
+    "pa": {
+        "name": "Panama",
+        "callingCode": "+507"
+    },
+    "pe": {
+        "name": "Peru",
+        "callingCode": "+51"
+    },
+    "pf": {
+        "name": "French Polynesia",
+        "callingCode": "+689"
+    },
+    "pg": {
+        "name": "Papua New Guinea",
+        "callingCode": "+675"
+    },
+    "ph": {
+        "name": "Philippines",
+        "callingCode": "+63"
+    },
+    "pk": {
+        "name": "Pakistan",
+        "callingCode": "+92"
+    },
+    "pl": {
+        "name": "Poland",
+        "callingCode": "+48"
+    },
+    
+    "pn": {
+        "name": "Pitcairn",
+        "callingCode": "+872"
+    },
+    "pr": {
+        "name": "Puerto Rico",
+        "callingCode": "+1"
+    },
+    "ps": {
+        "name": "Palestine",
+        "callingCode": "+970"
+    },
+    "pt": {
+        "name": "Portugal",
+        "callingCode": "+351"
+    },
+    "pw": {
+        "name": "Palau",
+        "callingCode": "+680"
+    },
+    "py": {
+        "name": "Paraguay",
+        "callingCode": "+595"
+    },
+    "qa": {
+        "name": "Qatar",
+        "callingCode": "+974"
+    },
+    "re": {
+        "name": "Réunion",
+        "callingCode": "+262"
+    },
+    "ro": {
+        "name": "Romania",
+        "callingCode": "+40"
+    },
+    "rs": {
+        "name": "Serbia",
+        "callingCode": "+381"
+    },
+    "ru": {
+        "name": "Russia",
+        "callingCode": "+7"
+    },
+    "rw": {
+        "name": "Rwanda",
+        "callingCode": "+250"
+    },
+    "sa": {
+        "name": "Saudi Arabia",
+        "callingCode": "+966"
+    },
+    "sb": {
+        "name": "Solomon Islands",
+        "callingCode": "+677"
+    },
+    "sc": {
+        "name": "Seychelles",
+        "callingCode": "+248"
+    },
+    "sd": {
+        "name": "Sudan",
+        "callingCode": "+249"
+    },
+    "se": {
+        "name": "Sweden",
+        "callingCode": "+46"
+    },
+    "sg": {
+        "name": "Singapore",
+        "callingCode": "+65"
+    },
+    "sh": {
+        "name": "Saint Helena",
+        "callingCode": "+290"
+    },
+    "si": {
+        "name": "Slovenia",
+        "callingCode": "+386"
+    },
+    
+    "sk": {
+        "name": "Slovakia",
+        "callingCode": "+421"
+    },
+    "sl": {
+        "name": "Sierra Leone",
+        "callingCode": "+232"
+    },
+    "sm": {
+        "name": "San Marino",
+        "callingCode": "+378"
+    },
+    "sn": {
+        "name": "Senegal",
+        "callingCode": "+221"
+    },
+    "so": {
+        "name": "Somalia",
+        "callingCode": "+252"
+    },
+    "sr": {
+        "name": "Suriname",
+        "callingCode": "+597"
+    },
+    "ss": {
+        "name": "South Sudan",
+        "callingCode": "+211"
+    },
+    "st": {
+        "name": "São Tomé and Príncipe",
+        "callingCode": "+239"
+    },
+    "sv": {
+        "name": "El Salvador",
+        "callingCode": "+503"
+    },
+    
+    "sy": {
+        "name": "Syria",
+        "callingCode": "+963"
+    },
+    "sz": {
+        "name": "Eswatini",
+        "callingCode": "+268"
+    },
+    "tc": {
+        "name": "Turks and Caicos Islands",
+        "callingCode": "+1"
+    },
+    "td": {
+        "name": "Chad",
+        "callingCode": "+235"
+    },
+    "tf": {
+        "name": "French Southern Territories",
+        "callingCode": "+262"
+    },
+    "tg": {
+        "name": "Togo",
+        "callingCode": "+228"
+    },
+    "th": {
+        "name": "Thailand",
+        "callingCode": "+66"
+    },
+    "tj": {
+        "name": "Tajikistan",
+        "callingCode": "+992"
+    },
+    "tk": {
+        "name": "Tokelau",
+        "callingCode": "+690"
+    },
+    "tl": {
+        "name": "Timor-Leste",
+        "callingCode": "+670"
+    },
+    "tm": {
+        "name": "Turkmenistan",
+        "callingCode": "+993"
+    },
+    "tn": {
+        "name": "Tunisia",
+        "callingCode": "+216"
+    },
+    "to": {
+        "name": "Tonga",
+        "callingCode": "+676"
+    },
+    "tr": {
+        "name": "Turkey",
+        "callingCode": "+90"
+    },
+    "tt": {
+        "name": "Trinidad and Tobago",
+        "callingCode": "+1"
+    },
+    "tv": {
+        "name": "Tuvalu",
+        "callingCode": "+688"
+    },
+    "tw": {
+        "name": "Taiwan",
+        "callingCode": "+886"
+    },
+    "tz": {
+        "name": "Tanzania",
+        "callingCode": "+255"
+    },
+    "ua": {
+        "name": "Ukraine",
+        "callingCode": "+380"
+    },
+    "ug": {
+        "name": "Uganda",
+        "callingCode": "+256"
+    },
+    
+    "us": {
+        "name": "United States of America",
+        "callingCode": "+1"
+    },
+    "uy": {
+        "name": "Uruguay",
+        "callingCode": "+598"
+    },
+    "uz": {
+        "name": "Uzbekistan",
+        "callingCode": "+998"
+    },
+    "va": {
+        "name": "Vatican City",
+        "callingCode": "+39"
+    },
+    "vc": {
+        "name": "Saint Vincent and the Grenadines",
+        "callingCode": "+1"
+    },
+    "ve": {
+        "name": "Venezuela",
+        "callingCode": "+58"
+    },
+    "vg": {
+        "name": "British Virgin Islands",
+        "callingCode": "+1"
+    },
+    "vi": {
+        "name": "U.S. Virgin Islands",
+        "callingCode": "+1"
+    },
+    "vn": {
+        "name": "Vietnam",
+        "callingCode": "+84"
+    },
+    "vu": {
+        "name": "Vanuatu",
+        "callingCode": "+678"
+    },
+    "wf": {
+        "name": "Wallis and Futuna",
+        "callingCode": "+681"
+    },
+    "ws": {
+        "name": "Samoa",
+        "callingCode": "+685"
+    },
+    "ye": {
+        "name": "Yemen",
+        "callingCode": "+967"
+    },
+    "yt": {
+        "name": "Mayotte",
+        "callingCode": "+262"
+    },
+    "za": {
+        "name": "South Africa",
+        "callingCode": "+27"
+    },
+    "zm": {
+        "name": "Zambia",
+        "callingCode": "+260"
+    },
+    "zw": {
+        "name": "Zimbabwe",
+        "callingCode": "+263"
+    }
+}

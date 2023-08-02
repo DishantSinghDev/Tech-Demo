@@ -1,0 +1,86 @@
+.input-box input:valid ~ span,
+.input-box input:focus ~ span
+{
+    color:#33bbcf;
+    transform: translateX(10px) translateY(-7px);
+    font-size: 0.65em;
+   padding: 0 5px;
+   background-color: white;
+   transition-duration:300ms ;
+   letter-spacing: 0.1em;
+
+}
+.input-box input, .input-box select, .input-box textarea{
+    margin: 0.2rem 0rem;
+    padding: 0.4rem;
+}
+
+.input-box input:focus, .input-box select:focus, .input-box textarea:focus{
+    border-color: #33bbcf;
+    outline: none;
+}
+
+.input-box textarea:valid ~ span,
+.input-box textarea:focus ~ span{
+    color:#33bbcf;
+    transform: translateX(10px) translateY(-7px);
+    font-size: 0.65em;
+   padding: 0 5px;
+   background-color: white;
+   transition-duration:700ms ;
+   letter-spacing: 0.1em;
+
+}
+
+
+.map_bg_main {
+    float: left;
+    width: 100.2%;
+    background-image: url(https://cdn.moontechnolabs.com/live/images/popup_bg.svg)!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 1px -60px!important;
+    height: 625px;
+    margin-bottom: 20px;
+}
+.map_bg_main{
+    background: linear-gradient(294.61deg, #45108A 2.27%, #3D065F 29.57%, #10054D 101.35%)  ;
+}
+@media only screen and (min-width: 600px) {
+    .map_bg_main {
+        float: left;
+        width: 100.2%;
+        background-image: url(https://cdn.moontechnolabs.com/live/images/popup_bg.svg)!important;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 1px -60px!important;
+        height: 570px;
+        margin-bottom: 20px;
+    }
+}
+
+
+.btn{
+    background: linear-gradient(294.61deg, #45108A 2.27%, #3D065F 29.57%, #10054D 101.35%)  ;
+    color:white;
+    font-weight: bold;
+    border: 1px solid #45108A;      
+}
+
+.btn:hover{
+    background: white;
+    color:  #3D065F  ;
+    border: 1px solid #45108A;      
+}
+select.PhoneInputCountrySelect{
+    margin: 0;
+    padding: 0;
+} 
+
+
+.PhoneInputInput{
+    padding: 0.1rem !important;
+}
+.PhoneInput:focus{
+    border-color: #33bbcf;
+}
