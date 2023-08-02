@@ -26,7 +26,7 @@ const TypingCodeBlock = ({ code }) => {
   
 
   return (
-    <div className='text-xs h-[21rem] py-3 ss:w-[30rem] w-[25rem] bg-[#1d1f21] rounded-lg overflow-hidden'>
+    <div className='text-xs h-[22rem] py-3 ss:w-[30rem] w-[25rem] bg-[#1d1f21] rounded-lg overflow-hidden'>
     <SyntaxHighlighter
       language="javascript"
       style={tomorrowNight}

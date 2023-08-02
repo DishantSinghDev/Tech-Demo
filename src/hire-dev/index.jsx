@@ -18,12 +18,13 @@ import VSCards from "../components/VSCards";
 import { blogs } from "../constants";
 
 const HireDev = () => {
-    const code = `c onst ComencementTech = require('Development')
+    const code = `c onst DishIsTech = require('Development')
 
 // Hire the best suited developers
-let developer = await peerbits.skills.hire({
-  Experience: '10+ years',
-  Technologies: 'React.JS, Angular, Node.JS, .NET'
+let developer = await dishis.skills.hire({
+  Name: 'Dishant Singh',
+  Experience: '2+ years',
+  Technologies: 'React.JS, DSA, Node.JS, Python'
 });
 
 while (development !== 'Done') {

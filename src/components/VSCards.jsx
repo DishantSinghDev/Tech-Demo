@@ -54,7 +54,7 @@ const VSCards = () => {
                     <img src="https://i.ibb.co/kQK2Jz1/logo-2cf41be8df20395f60e1b1dd51b68243-1.png" className="w-full h-full" alt="" />
                 </div>
                 <div className="text-xl pb-5 font-medium">
-                    Comencement
+                    DishIs
                 </div>
 
                 <div className="pl-3">
