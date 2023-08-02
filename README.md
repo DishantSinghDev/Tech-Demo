@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with DishIs Tech React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [https://tech-demo-dishis.vercel.app/](Tech Demo).
 
 ## Available Scripts
 
