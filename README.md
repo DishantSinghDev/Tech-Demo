@@ -1,6 +1,6 @@
 # Getting Started with DishIs Tech React App
 
-This project was bootstrapped with [https://tech-demo-dishis.vercel.app/](Tech Demo).
+This project was bootstrapped with [Tech Demo](https://tech-demo-dishis.vercel.app).
 
 ## Available Scripts
 
