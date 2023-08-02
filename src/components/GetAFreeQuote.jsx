@@ -25,25 +25,25 @@ const GetAFreeQuote = ({className}) => {
           <div className="flex flex-col   md:flex-row justify-between ">
             <div className="flex flex-col pb-4 w-[50%]">
               <h1 className=" py-2 opacity-70 text-lg font-semibold tracking-wide " >Project Enquiries </h1>
-              <a href="" className="hover:text-green-400">enquiry.peerbits</a>
-              <a href="mailto:info@peerbits.com" className="hover:text-green-400">info@peerbits.com</a>
+              <a href="" className="hover:text-green-400">enquiry.dishis</a>
+              <a href="mailto:info@dishis.in" className="hover:text-green-400">info@dishis.in</a>
             </div>
 
             <div className="flex flex-col w-[50%] ">
               <h1 className=" py-2 opacity-70 text-lg font-semibold tracking-wide " >Career </h1>
               <a href="tel:+917948000686" className="hover:text-green-400">+91 79 48000686</a>
-              <a href="mailto:career@peerbits.com" className="hover:text-green-400 pb-2" >career@peerbits.com</a>
+              <a href="mailto:career@dishis.in" className="hover:text-green-400 pb-2" >career@dishis.in</a>
             </div>
           </div>
 
           <div className="flex flex-col md:flex-row py-8">
             <div className="flex flex-col w-[50%] ">
               <h1 className="py-2 opacity-70 text-lg font-semibold tracking-wide " > New Business</h1>
-              <a href="mailto:peerbits@gmail.com" className="hover:text-green-400" >peerbits@gmail.com</a>
+              <a href="mailto:dishis@gmail.com" className="hover:text-green-400" >dishis@gmail.com</a>
             </div>
             <div className="flex flex-col w-[50%] ">
               <h1 className="py-2 opacity-70  text-lg font-semibold tracking-wide" >General Enquiries</h1>
-              <a href="mailto:info@peerbits.com" className="hover:text-green-400" > info@peerbits.com</a>
+              <a href="mailto:info@dishis.in" className="hover:text-green-400" > info@dishis.in</a>
             </div>
           </div>
           <h1 className="py-5 opacity-70 text-lg" > Our Offices </h1>
